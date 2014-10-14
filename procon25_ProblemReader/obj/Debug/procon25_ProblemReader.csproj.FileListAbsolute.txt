@@ -1,9 +1,0 @@
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\bin\Debug\procon25_ProblemReader.exe.config
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\bin\Debug\procon25_ProblemReader.exe
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\bin\Debug\procon25_ProblemReader.pdb
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\obj\Debug\procon25_ProblemReader.csprojResolveAssemblyReference.cache
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\obj\Debug\procon25_ProblemReader.Form1.resources
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\obj\Debug\procon25_ProblemReader.Properties.Resources.resources
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\obj\Debug\procon25_ProblemReader.csproj.GenerateResource.Cache
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\obj\Debug\procon25_ProblemReader.exe
-C:\Users\SP2LC\Documents\Visual Studio 2012\Projects\procon25_ProblemReader\procon25_ProblemReader\obj\Debug\procon25_ProblemReader.pdb
