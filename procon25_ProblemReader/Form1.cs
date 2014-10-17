@@ -42,22 +42,22 @@ namespace procon25_ProblemReader
                             switch (reader.LocalName)
                             {
                                 case "Height":
-                                    label1.Text += reader.ReadString() ;
+                                    label9.Text += reader.ReadString() ;
                                     break;
                                 case "Width":
-                                    label2.Text += reader.ReadString();
+                                    label10.Text += reader.ReadString();
                                     break;
                                 case "SwapCost":
-                                    label3.Text += reader.ReadString();
+                                    label11.Text += reader.ReadString();
                                     break;
                                 case "SelectCost":
-                                    label4.Text += reader.ReadString();
+                                    label12.Text += reader.ReadString();
                                     break;
                                 case "Maxval":
-                                    label5.Text += reader.ReadString();
+                                    label13.Text += reader.ReadString();
                                     break;
                                 case "MaxSelections":
-                                    label6.Text += reader.ReadString();
+                                    label14.Text += reader.ReadString();
                                     break;
                                 case "X":
                                     temp = int.Parse(reader.ReadString());
@@ -71,8 +71,8 @@ namespace procon25_ProblemReader
                         }
                     }
 
-                    label7.Text += (y+1);
-                    label8.Text += (x+1);
+                    label15.Text += (y+1);
+                    label16.Text += (x+1);
                 }
                 catch (Exception ex)
                 {
